@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rokk3rLabs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buy_botton">Buy</string>
+    <string name="error_seed">Error : Seed</string>
+    <string name="buy">Comprar</string>
+    <string name="cars">Carrito</string>
+    <string name="car">Productos</string>
+    <string name="is_empty">No posees Productos en tu carrito de compra.</string>
+    <string name="format_price">%1$d  $</string>
+    <string name="format_avaiable">%1$d Disp.</string>
+</resources>
